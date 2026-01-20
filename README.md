@@ -2,7 +2,7 @@
 
 Este repositório contém os códigos-fonte, scripts de processamento e visualização utilizados no Trabalho de Conclusão de Curso (TCC):
 
-**“Análise e Projeção da Curva de Gastos do SUS com Base em Procedimentos Ambulatoriais e de Internação Hospitalar (2015–2024)”**
+**“Análise e Projeção da Curva de Gastos do SUS com Base em Procedimentos Ambulatoriais e de Internações Hospitalares (2015–2024)”**
 
 O estudo utiliza modelos de séries temporais avançados, com destaque para o **Temporal Fusion Transformer (TFT)**, visando gerar previsões probabilísticas dos gastos do Sistema Único de Saúde (SUS), em nível **nacional e regional**, como subsídio ao planejamento orçamentário e à gestão de risco em políticas públicas de saúde.
 

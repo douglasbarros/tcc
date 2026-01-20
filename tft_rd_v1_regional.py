@@ -244,7 +244,7 @@ if __name__ == "__main__":
     multiprocessing.freeze_support()
     BASE_PATH = "C:/projects/tcc/"
     CSV_PATH = BASE_PATH + "dados_top10_consolidadosRD_2015_2024.csv"
-    PATH_POP_IBGE = BASE_PATH + "projecoes_2024_tab1_idade_simples.csv" # Caminho para o arquivo do IBGE
+    PATH_POP_IBGE = BASE_PATH + "ibge/projecoes_2024_tab1_idade_simples.csv" # Caminho para o arquivo do IBGE
     PATH_DOENCAS = BASE_PATH + "doencas/"
     OUT_PATH = BASE_PATH + "predicoes_TFT_RD_v1_regional.csv"
     CHECKPOINT_PATH = BASE_PATH + "tft_RD_v1_regional.ckpt"

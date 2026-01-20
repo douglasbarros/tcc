@@ -80,6 +80,20 @@ Os gráficos apresentam:
 
 ---
 
+## 📂 Dados de Entrada (Obrigatório)
+
+Para a execução correta dos scripts de treinamento e visualização, é **necessário adicionar na raiz do projeto** os arquivos de dados consolidados:
+
+- `dados_top10_consolidadosPA_2015_2024.csv`  
+  *(Procedimentos Ambulatoriais — PA)*
+
+- `dados_top10_consolidadosRD_2015_2024.csv`  
+  *(Internações Hospitalares — RD)*
+
+Esses arquivos devem conter os dados históricos consolidados por procedimento e período, conforme descrito no trabalho, e **não estão incluídos no repositório** por questões de tamanho e organização dos dados.
+
+---
+
 ## 📈 Resultados Principais
 
 - O modelo **TFT superou amplamente a regressão linear**, reduzindo o MAPE em mais de 50% em diversos cenários
@@ -123,8 +137,9 @@ Todos os scripts utilizados na modelagem e visualização estão disponíveis ne
 ## 📌 Autor
 
 **Douglas de Barros Silva**  
-Desenvolvedor de Software | Tech Lead  
-Trabalho de Conclusão de Curso — Análise de Dados / Ciência de Dados
+Trabalho de Conclusão de Curso
+Bacharelado em Matemática Aplicada e Computacional
+Instituto de Matemática e Estatística - Universidade de São Paulo
 
 ---
 
